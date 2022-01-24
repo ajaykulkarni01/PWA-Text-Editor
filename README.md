@@ -48,7 +48,7 @@ Following image shows the application screenshot.
 - [License](#license)
 
 ## Installation
-This application does not require installation. [Click here](https://herokuapp.com/) to view the application.
+This application does not require installation. [Click here](https://ajay-pwa-text-editor.herokuapp.com/) to view the application.
 
 ## Usage
 
